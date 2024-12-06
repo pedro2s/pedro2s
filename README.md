@@ -29,7 +29,7 @@ Vamos continuar evoluindo juntos! 🚀 -->
 [comment]: <> (</div>)
 
 <div>    
-  ![Snake animation](https://github.com/pedro2s/pedro2s/blob/output/github-contribution-grid-snake.svg)  
+  ![Snake animation](https://github.com/pedrosantana-dev/pedrosantana-dev/blob/output/github-contribution-grid-snake.svg)  
 </div>
 
 ##
