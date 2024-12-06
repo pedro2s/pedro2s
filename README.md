@@ -1,4 +1,4 @@
-### Olá! 👋 Eu sou o Pedro
+<!-- ### Olá! 👋 Eu sou o Pedro
 
 Sou um desenvolvedor full stack com ampla experiência em diversas tecnologias. Ao longo do tempo, adquiri habilidades avançadas em várias áreas da programação. Algumas das minhas competências incluem:
 
@@ -20,21 +20,21 @@ Meu compromisso com o aprendizado contínuo, continua firme, e estou sempre busc
 
 Seja bem-vindo ao meu perfil do GitHub, onde você pode encontrar projetos e contribuições relacionadas a diversas áreas da programação. Fique à vontade para explorar meu trabalho e entrar em contato se tiver alguma pergunta ou oportunidade de colaboração.
 
-Vamos continuar evoluindo juntos! 🚀
+Vamos continuar evoluindo juntos! 🚀 -->
 
 [comment]: <> (<div>)
-[comment]: <> (  <a href="https://pedrosantana-dev.github.io/">)
-[comment]: <> (  <img height=170em src="https://github-readme-stats.vercel.app/api?username=pedrosantana-dev&count_private=true&include_all_commits=true&show_icons=true&theme=radical" >)
-[comment]: <> (  <img height=170em src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosantana-dev&layout=compact&theme=tokyonight&langs_count=10" >)
+[comment]: <> (  <a href="https://pedro2s.github.io/">)
+[comment]: <> (  <img height=170em src="https://github-readme-stats.vercel.app/api?username=pedro2s&count_private=true&include_all_commits=true&show_icons=true&theme=radical" >)
+[comment]: <> (  <img height=170em src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro2s&layout=compact&theme=tokyonight&langs_count=10" >)
 [comment]: <> (</div>)
 
 <div>
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pedrosantana-dev&skills=css,html,javascript,typescript,vue,scss&show-other-skills=true" width="800" />
+  <img align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pedrosantana-dev&skills=css,scss,html,javascript,node,typescript,vue,react&show-other-skills=true" width="800" />
 </div>
   
 ##
 
- <div>
+ <!-- <div>
   <a href="https://pedrosantana-dev.github.io/">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />    
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -51,12 +51,12 @@ Vamos continuar evoluindo juntos! 🚀
   <img align="center" alt="Pedro-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Pedro-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Pedro-AWS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-</div>
+</div> 
 
-##
+## -->
 
 <div>
-  <a href="https://www.linkedin.com/in/pedrosantanadev/">
+<!--   <a href="https://www.linkedin.com/in/pedrosantanadev/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://discordapp.com/channels/@me/959473889136766996/">
@@ -67,9 +67,9 @@ Vamos continuar evoluindo juntos! 🚀
   </a>
   <a href="mailto:pedromanu27@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  </a> -->
     
-  ![Snake animation](https://github.com/pedrosantana-dev/pedrosantana-dev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/pedro2s/pedro2s/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
