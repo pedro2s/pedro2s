@@ -23,7 +23,9 @@ Seja bem-vindo ao meu perfil do GitHub, onde você pode encontrar projetos e con
 Vamos continuar evoluindo juntos! 🚀 -->
 
 <div>  
+  
   ![Snake animation](https://github.com/pedro2s/pedro2s/blob/output/github-contribution-grid-snake.svg)  
+  
 </div>
 
 [comment]: <> (<div>)
