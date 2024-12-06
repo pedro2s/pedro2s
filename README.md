@@ -2,24 +2,21 @@
 
 Sou um desenvolvedor full stack com ampla experiência em diversas tecnologias. Ao longo do tempo, adquiri habilidades avançadas em várias áreas da programação. Algumas das minhas competências incluem:
 
-**Front-end:**
-- HTML5, CSS3, JavaScript
-- Angular, VueJS, React
+- HTML5, CSS3, JavaScript Vanila, Node.js, TypeScript, Express, AdonisJS, NestJS, TypeORM, Vue, React.
 
-**Back-end:**
-- Node.js (Express, Sequelize, AdonisJS)
-- TypeScript (NestJS, TypeORM)
-
-**Bancos de dados:**
-- PostgreSQL, MySQL, MongoDB
+**Gerenciamento de bancos de dados:**
+- PostgreSQL, MySQL, MongoDB.
 
 **Outras competências:**
-- Docker, CI/CD com Jenkins
-- AWS (EC2, ECR, ECS, S3, Lambda, Secrets Manager)
+- Docker
+- Git e Controle de Versão de Codigo
+- Cloud and Cloud Computing com AWS (EC2, ECR, ECS, S3, Lambda, Secrets Manager)
 - Microservices, Clean code, SOLID, Design patterns
 - Messageria com RabbitMQ
+- Programação Assíncrona
+- Integração com API
 
-Completei o curso de Full Stack Node e React na Digital House, a maior comunidade de programadores da América Latina. No entanto, meu compromisso com o aprendizado contínuo continua firme, e estou sempre buscando conhecimento em novas tecnologias e aprimorando minhas habilidades.
+Meu compromisso com o aprendizado contínuo, continua firme, e estou sempre buscando conhecimento em novas tecnologias e aprimorando minhas habilidades.
 
 Seja bem-vindo ao meu perfil do GitHub, onde você pode encontrar projetos e contribuições relacionadas a diversas áreas da programação. Fique à vontade para explorar meu trabalho e entrar em contato se tiver alguma pergunta ou oportunidade de colaboração.
 
