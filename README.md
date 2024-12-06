@@ -37,7 +37,7 @@ Vamos continuar evoluindo juntos! 🚀 -->
 ##
 
 <div>
-  <img align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pedrosantana-dev&skills=html,css,scss,javascript,typescript,vue,c" width="800" />
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pedrosantana-dev&skills=html,css,scss,javascript,typescript,vue,c" width="100%" />
 </div>
 
 
