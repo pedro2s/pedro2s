@@ -28,8 +28,10 @@ Vamos continuar evoluindo juntos! 🚀 -->
 [comment]: <> (  <img height=170em src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro2s&layout=compact&theme=tokyonight&langs_count=10" >)
 [comment]: <> (</div>)
 
+##
+
 <div>    
-  ![Snake animation](https://github.com/pedrosantana-dev/pedrosantana-dev/blob/output/github-contribution-grid-snake.svg)  
+  ![Snake animation](https://github.com/pedro2s/pedro2s/blob/output/github-contribution-grid-snake.svg)  
 </div>
 
 ##
