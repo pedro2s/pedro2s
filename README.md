@@ -22,17 +22,17 @@ Seja bem-vindo ao meu perfil do GitHub, onde você pode encontrar projetos e con
 
 Vamos continuar evoluindo juntos! 🚀 -->
 
+<div>
+  
+  ![Snake animation](https://github.com/pedro2s/pedro2s/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
 [comment]: <> (<div>)
 [comment]: <> (  <a href="https://pedro2s.github.io/">)
 [comment]: <> (  <img height=170em src="https://github-readme-stats.vercel.app/api?username=pedro2s&count_private=true&include_all_commits=true&show_icons=true&theme=radical" >)
 [comment]: <> (  <img height=170em src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro2s&layout=compact&theme=tokyonight&langs_count=10" >)
 [comment]: <> (</div>)
-
-##
-
-<div>    
-  ![Snake animation](https://github.com/pedro2s/pedro2s/blob/output/github-contribution-grid-snake.svg)  
-</div>
 
 ##
 
