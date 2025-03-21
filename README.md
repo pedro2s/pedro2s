@@ -28,9 +28,10 @@ Vamos continuar evoluindo juntos! 🚀 -->
 [comment]: <> (  <img height=170em src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro2s&layout=compact&theme=tokyonight&langs_count=10" >)
 [comment]: <> (</div>)
 
-<div>
+<!-- <div>
   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pedrosantana-dev&skills=html,css,scss,javascript,typescript,vue,c" width="100%" />
 </div>
+-->
 
 <!-- <div>  
   
