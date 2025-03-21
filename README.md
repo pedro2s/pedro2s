@@ -1,3 +1,19 @@
+## Olá! Eu sou o Pedro 👋  
+
+💻 **Desenvolvedor Back-end Sênior** especializado em **Node.js** e **TypeScript**  
+🚀 Apaixonado por arquitetura de software, **DDD**, **CQRS** e **Event-Driven Architecture**  
+📚 Sempre aprendendo! Atualmente estudando **Python** <!-- **Solidity**, **Ruby on Rails** e **C++ para Game Engines**  -->
+<!-- 🔗 Compartilho conhecimento sobre tecnologia no meu canal do YouTube  -->
+
+### 📫 Onde me encontrar:  
+- 💼 [LinkedIn](https://www.linkedin.com/in/eupedrosantana)  
+- 📂 [GitHub](https://github.com/pedro2s)  
+<!-- - 🎥 [YouTube](https://www.youtube.com/seu-canal)  -->
+
+⚡ Curto desafios, inovação e empreendedorismo no mundo tech!  
+
+
+
 <!-- ### Olá! 👋 Eu sou o Pedro
 
 Sou um desenvolvedor full stack com ampla experiência em diversas tecnologias. Ao longo do tempo, adquiri habilidades avançadas em várias áreas da programação. Algumas das minhas competências incluem:
