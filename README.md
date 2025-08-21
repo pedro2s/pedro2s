@@ -2,12 +2,12 @@
 
 💻 **Desenvolvedor Back-end Sênior** especializado em **Node.js** e **TypeScript**  
 🚀 Apaixonado por arquitetura de software, **DDD**, **CQRS** e **Event-Driven Architecture**  
-📚 Sempre aprendendo! Atualmente estudando **Python** <!-- **Solidity**, **Ruby on Rails** e **C++ para Game Engines**  -->
+📚 Sempre aprendendo! Atualmente estudando **Python** e **Java/Spring** <!-- **Solidity**, **Ruby on Rails** e **C++ para Game Engines**  -->
 <!-- 🔗 Compartilho conhecimento sobre tecnologia no meu canal do YouTube  -->
 
 ### 📫 Onde me encontrar:  
 - 💼 [LinkedIn](https://www.linkedin.com/in/eupedrosantana)  
-- 📂 [GitHub](https://github.com/pedro2s)  
+- 📂 [Instagram](https://instagram.com/psta.xgh/)
 <!-- - 🎥 [YouTube](https://www.youtube.com/seu-canal)  -->
 
 ⚡ Curto desafios, inovação e empreendedorismo no mundo tech!  
@@ -38,11 +38,11 @@ Seja bem-vindo ao meu perfil do GitHub, onde você pode encontrar projetos e con
 
 Vamos continuar evoluindo juntos! 🚀 -->
 
-[comment]: <> (<div>)
-[comment]: <> (  <a href="https://pedro2s.github.io/">)
-[comment]: <> (  <img height=170em src="https://github-readme-stats.vercel.app/api?username=pedro2s&count_private=true&include_all_commits=true&show_icons=true&theme=radical" >)
-[comment]: <> (  <img height=170em src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro2s&layout=compact&theme=tokyonight&langs_count=10" >)
-[comment]: <> (</div>)
+<div>
+  <a href="https://pedro2s.github.io/">
+  <img height=170em src="https://github-readme-stats.vercel.app/api?username=pedro2s&count_private=true&include_all_commits=true&show_icons=true&theme=transparent" >
+  <img height=170em src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro2s&layout=donut&theme=transparent&langs_count=10" >
+</div>
 
 <!-- <div>
   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pedrosantana-dev&skills=html,css,scss,javascript,typescript,vue,c" width="100%" />
