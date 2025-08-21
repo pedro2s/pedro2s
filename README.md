@@ -38,13 +38,10 @@ Seja bem-vindo ao meu perfil do GitHub, onde você pode encontrar projetos e con
 
 Vamos continuar evoluindo juntos! 🚀 -->
 
-<div>
-  <a href="https://pedro2s.github.io/">
-  <img height=170em src="https://github-readme-stats.vercel.app/api?username=pedro2s&count_private=true&include_all_commits=true&show_icons=true&theme=transparent" >
-</div>
-<div>
-  <img height=170em src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro2s&layout=donut&theme=transparent&langs_count=6" >  
-</div>
+
+<a href="https://pedro2s.github.io/">
+<img height=170em src="https://github-readme-stats.vercel.app/api?username=pedro2s&count_private=true&include_all_commits=true&show_icons=true&theme=transparent" >
+<img height=170em src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro2s&layout=donut&theme=transparent&langs_count=6" >  
 
 <!-- <div>
   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pedrosantana-dev&skills=html,css,scss,javascript,typescript,vue,c" width="100%" />
