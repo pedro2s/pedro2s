@@ -41,7 +41,9 @@ Vamos continuar evoluindo juntos! 🚀 -->
 <div>
   <a href="https://pedro2s.github.io/">
   <img height=170em src="https://github-readme-stats.vercel.app/api?username=pedro2s&count_private=true&include_all_commits=true&show_icons=true&theme=transparent" >
-  <img height=170em src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro2s&layout=donut&theme=transparent&langs_count=10" >
+</div>
+<div>
+  <img height=170em src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro2s&layout=donut&theme=transparent&langs_count=6" >  
 </div>
 
 <!-- <div>
